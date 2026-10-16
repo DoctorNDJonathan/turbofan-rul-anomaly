@@ -22,4 +22,7 @@ https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/p
 - Local run: copy the three files into this `data/` folder.
 - Databricks: upload them to a Unity Catalog volume and load them as Delta tables (bronze layer).
 
-#FILE = "/Volumes/turbofan/cmapss/raw"
+###FILE = "/Volumes/turbofan/cmapss/raw"
+
+Citation for data:
+A. Saxena and K. Goebel (2008). “Turbofan Engine Degradation Simulation Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA.
