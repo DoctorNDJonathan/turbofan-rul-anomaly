@@ -21,3 +21,5 @@ https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/p
 
 - Local run: copy the three files into this `data/` folder.
 - Databricks: upload them to a Unity Catalog volume and load them as Delta tables (bronze layer).
+
+#FILE = "/Volumes/turbofan/cmapss/raw"
