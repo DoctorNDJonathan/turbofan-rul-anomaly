@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Raw data (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# MLflow local runs
+mlruns/
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/

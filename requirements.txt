@@ -1,0 +1,10 @@
+# Pin exact versions after your first successful run: pip freeze | grep -i -E "pandas|numpy|scikit-learn|xgboost|lightgbm|mlflow|matplotlib|seaborn"
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+mlflow
+matplotlib
+seaborn
+pyspark
